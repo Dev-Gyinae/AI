@@ -6,3 +6,9 @@ I will resolve these issues over the weekend.
 
 
 Dev Gyinae (Friday 12/05/2023  @ 6:34pm)
+
+
+ISSUES SORTED - nodemon modules working now 
+full project : Maria AI 
+check repository
+(Saturday 13/05/2023 @ 11:42)
