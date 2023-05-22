@@ -12,3 +12,6 @@ ISSUES SORTED - nodemon modules working now
 full project : Maria AI 
 check repository
 (Saturday 13/05/2023 @ 11:42)
+
+
+Entire project re-done and hosted check https://github.com/Dev-Gyinae/Maria-AI for source codes and hosting links 
